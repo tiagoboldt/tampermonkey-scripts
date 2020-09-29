@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Raize investment percentages
 // @namespace    https://tiagoboldt.net/
-// @updateURL    https://github.com/tiagoboldt/tampermonkey-scripts/raize-values.js
+// @updateURL    https://raw.githubusercontent.com/tiagoboldt/tampermonkey-scripts/master/raize-values.js
 // @version      0.1
 // @author       Tiago Boldt Sousa
 // @match        https://www.raize.pt/*
